@@ -1,6 +1,6 @@
 # README
 
-![Bild A](img/bild1.png)
+![Bild A](img/bild2.png)
 
 ![Bild B](/img/bild1.png)
 
