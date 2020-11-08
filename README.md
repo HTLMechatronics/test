@@ -1,3 +1,3 @@
 # test
 
-[Bild 1](img/bild1.png)
+![Bild 1](img/bild1.png)
